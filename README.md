@@ -1,4 +1,4 @@
-# Comm671_m4
+# Comm671_M4
 
 ##About_me
 
@@ -8,7 +8,7 @@ my name is yanet,and this is my first assignment on github.
 
 *Iam exicited to learn and grow on web devepment projects*
 
-###Topics Im exploring 
+###Topics_Im_exploring 
 - web development
 - management
 - growthmindset
